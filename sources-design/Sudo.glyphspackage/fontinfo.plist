@@ -1,5 +1,5 @@
 {
-.appVersion = "3517";
+.appVersion = "3526";
 .formatVersion = 3;
 axes = (
 {
@@ -1780,6 +1780,7 @@ ringbelowcomb,
 commaaccentcomb,
 cedillacomb,
 ogonekcomb,
+verticallinebelowcomb,
 brevebelowcomb,
 macronbelowcomb,
 lowlinecomb,
@@ -2928,7 +2929,7 @@ name = "Use Extension Kerning";
 value = 0;
 }
 );
-date = "2025-11-18 20:35:23 +0000";
+date = "2026-05-24 14:49:28 +0000";
 familyName = Sudo;
 featurePrefixes = (
 {
@@ -11655,5 +11656,5 @@ oV = "102";
 de.kutilek.KernStrings.ignore = .ss20;
 };
 versionMajor = 3;
-versionMinor = 4;
+versionMinor = 5;
 }
