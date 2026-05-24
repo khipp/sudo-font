@@ -129,7 +129,7 @@ jobs:
         shell: bash
         run: echo "RELEASE_ZIP_NAME=$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')-${{github.ref_name}}" >> $GITHUB_ENV
       - name: Create release bundle
-        run: mv ${{ env.ZIP_NAME }} ${{ env.RELEASE_ZIP_NAME }}; zip -r ${{ env.RELEASE_ZIP_NAME }}.zip ${{ env.RELEASE_ZIP_NAME }}
+        run: mv ${{ env.ZIP_NAME }} ${{ env.RELEASE_ZIP_NAME }}; zip -r ${{ env.RELEASE_ZIP_NAME }}-googlefonts.zip ${{ env.RELEASE_ZIP_NAME }}
       # And now for Debian
       - name: Generate Changelog
         run: sed -n '/${{github.ref_name}}/,/^$/p' sudo/FONTLOG.txt | sed '1d; $d' > Release_Notes.txt
@@ -150,7 +150,7 @@ jobs:
           fi
       - name: Populate release
         run: |
-          gh release upload ${{ github.ref_name }} ${{ env.RELEASE_ZIP_NAME }}.zip --clobber
+          gh release upload ${{ github.ref_name }} ${{ env.RELEASE_ZIP_NAME }}-googlefonts.zip --clobber
           gh release upload ${{ github.ref_name }} dist/sudo.zip --clobber
           gh release upload ${{ github.ref_name }} dist/deb/fonts-sudo/fonts-sudo_*_all.deb --clobber
       - name: Set release live
