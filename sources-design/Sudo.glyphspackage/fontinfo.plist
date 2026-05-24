@@ -3833,6 +3833,11 @@ tag = cv06;
 {
 code = "sub seven from [seven.cv07];
 sub seven.osf from [seven.osf.cv07];
+sub seveninferior from [seveninferior.cv07];
+sub seven.dnom from [seven.dnom.cv07];
+sub seven.numr from [seven.numr.cv07];
+sub sevensuperior from [sevensuperior.cv07];
+sub seveneighths from [seveneighths.cv07];
 ";
 notes = "cvParameters {
     FeatUILabelNameID {
