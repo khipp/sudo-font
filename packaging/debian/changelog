@@ -1,8 +1,16 @@
-fonts-sudo (3.5-1) UNRELEASED; urgency=medium
+fonts-sudo (3.6-1) UNRELEASED; urgency=medium
 
   * Revisit bowls
   * Add single-storey a (layout feature CV09)
   * Add /verticallinebelowcomb
+  * Add /lineseparator and /paragraphseparator
+  * Set YTDE axis to hidden
+  * Try to set style linking
+  * Fix unreachable cv07 glyphs
   * Export variable fonts with Glyphs 3526
+  * Remove artifacts from repo
+  * Fix settings in production sources
+  * Use Release_Notes.txt as before
+  * Update Glyphs scripts
 
- -- Jens Kutilek <debian@kutilek.de>  Sun, 24 May 2026 16:55:35 +0200
+ -- Jens Kutilek <debian@kutilek.de>  Sun, 24 May 2026 18:10:36 +0200
