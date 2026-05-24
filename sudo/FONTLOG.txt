@@ -1,8 +1,10 @@
-Sudo is Copyright (c) 2009-2025, Jens Kutilek (http://www.kutilek.de/).
+Sudo is Copyright (c) 2009-2026, Jens Kutilek (http://www.kutilek.de/).
 
-v3.5-dev
+v3.5
 - Revisit bowls
 - Add single-storey a (layout feature CV09)
+- Add /verticallinebelowcomb
+- Export variable fonts with Glyphs 3526
 
 v3.4
 - Drop static fonts. Variable fonts seem to be universally supported now.
