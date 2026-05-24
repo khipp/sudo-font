@@ -2932,7 +2932,7 @@ name = "Use Extension Kerning";
 value = 0;
 }
 );
-date = "2026-05-24 14:49:28 +0000";
+date = "2026-05-24 15:34:19 +0000";
 familyName = Sudo;
 featurePrefixes = (
 {
@@ -11665,5 +11665,5 @@ oV = "102";
 de.kutilek.KernStrings.ignore = .ss20;
 };
 versionMajor = 3;
-versionMinor = 5;
+versionMinor = 6;
 }
