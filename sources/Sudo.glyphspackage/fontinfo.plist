@@ -2987,6 +2987,7 @@ code = "sub longs by s;
 	sub longs.italic by s;
 #endif
 ";
+disabled = 1;
 labels = (
 {
 language = dflt;
@@ -3344,6 +3345,7 @@ sub atilde from [atilde.cv atilde.cv atilde];
 
 #endif
 ";
+disabled = 1;
 tag = cv09;
 },
 {
@@ -5358,7 +5360,6 @@ gearWithoutHub
 );
 },
 {
-disabled = 1;
 name = "Remove Features";
 value = (
 ss04,
@@ -5368,14 +5369,12 @@ ital
 );
 },
 {
-disabled = 1;
 name = "Remove Glyphs";
 value = (
 "*.ss20"
 );
 },
 {
-disabled = 1;
 name = "Remove Glyphs";
 value = (
 lowlinecomb.224,
