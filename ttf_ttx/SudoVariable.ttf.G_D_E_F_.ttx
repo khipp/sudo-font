@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="4.58">
+<ttFont ttLibVersion="4.62">
 
   <GDEF>
     <Version value="0x00010003"/>
@@ -188,23 +188,34 @@
       <ClassDef glyph="Zdotaccent" class="1"/>
       <ClassDef glyph="Zeta" class="1"/>
       <ClassDef glyph="a" class="1"/>
+      <ClassDef glyph="a.cv" class="1"/>
       <ClassDef glyph="aacute" class="1"/>
+      <ClassDef glyph="aacute.cv" class="1"/>
       <ClassDef glyph="abreve" class="1"/>
+      <ClassDef glyph="abreve.cv" class="1"/>
       <ClassDef glyph="acircumflex" class="1"/>
+      <ClassDef glyph="acircumflex.cv" class="1"/>
       <ClassDef glyph="acutecomb" class="3"/>
       <ClassDef glyph="acutecomb.alt" class="3"/>
       <ClassDef glyph="acutecomb.case" class="3"/>
       <ClassDef glyph="adieresis" class="1"/>
+      <ClassDef glyph="adieresis.cv" class="1"/>
       <ClassDef glyph="ae" class="1"/>
       <ClassDef glyph="aeacute" class="1"/>
       <ClassDef glyph="agrave" class="1"/>
+      <ClassDef glyph="agrave.cv" class="1"/>
       <ClassDef glyph="alpha" class="1"/>
       <ClassDef glyph="alphatonos" class="1"/>
       <ClassDef glyph="amacron" class="1"/>
+      <ClassDef glyph="amacron.cv" class="1"/>
       <ClassDef glyph="aogonek" class="1"/>
+      <ClassDef glyph="aogonek.cv" class="1"/>
       <ClassDef glyph="aring" class="1"/>
+      <ClassDef glyph="aring.cv" class="1"/>
       <ClassDef glyph="aringacute" class="1"/>
+      <ClassDef glyph="aringacute.cv" class="1"/>
       <ClassDef glyph="atilde" class="1"/>
+      <ClassDef glyph="atilde.cv" class="1"/>
       <ClassDef glyph="b" class="1"/>
       <ClassDef glyph="c" class="1"/>
       <ClassDef glyph="cacute" class="1"/>
@@ -400,6 +411,7 @@
       <ClassDef glyph="uni01B7" class="1"/>
       <ClassDef glyph="uni01CD" class="1"/>
       <ClassDef glyph="uni01CE" class="1"/>
+      <ClassDef glyph="uni01CE.cv" class="1"/>
       <ClassDef glyph="uni01CF" class="1"/>
       <ClassDef glyph="uni01CF.cv02" class="1"/>
       <ClassDef glyph="uni01D0" class="1"/>
@@ -419,6 +431,7 @@
       <ClassDef glyph="uni01DD" class="1"/>
       <ClassDef glyph="uni01DE" class="1"/>
       <ClassDef glyph="uni01DF" class="1"/>
+      <ClassDef glyph="uni01DF.cv" class="1"/>
       <ClassDef glyph="uni01E2" class="1"/>
       <ClassDef glyph="uni01E3" class="1"/>
       <ClassDef glyph="uni01E4" class="1"/>
@@ -453,6 +466,7 @@
       <ClassDef glyph="uni021F" class="1"/>
       <ClassDef glyph="uni0226" class="1"/>
       <ClassDef glyph="uni0227" class="1"/>
+      <ClassDef glyph="uni0227.cv" class="1"/>
       <ClassDef glyph="uni0228" class="1"/>
       <ClassDef glyph="uni0229" class="1"/>
       <ClassDef glyph="uni022A" class="1"/>
@@ -537,6 +551,7 @@
       <ClassDef glyph="uni0326" class="3"/>
       <ClassDef glyph="uni0327" class="3"/>
       <ClassDef glyph="uni0328" class="3"/>
+      <ClassDef glyph="uni0329" class="3"/>
       <ClassDef glyph="uni032E" class="3"/>
       <ClassDef glyph="uni0331" class="3"/>
       <ClassDef glyph="uni0332" class="3"/>
@@ -762,28 +777,40 @@
       <ClassDef glyph="uni1E9B.italic" class="1"/>
       <ClassDef glyph="uni1EA0" class="1"/>
       <ClassDef glyph="uni1EA1" class="1"/>
+      <ClassDef glyph="uni1EA1.cv" class="1"/>
       <ClassDef glyph="uni1EA2" class="1"/>
       <ClassDef glyph="uni1EA3" class="1"/>
+      <ClassDef glyph="uni1EA3.cv" class="1"/>
       <ClassDef glyph="uni1EA4" class="1"/>
       <ClassDef glyph="uni1EA5" class="1"/>
+      <ClassDef glyph="uni1EA5.cv" class="1"/>
       <ClassDef glyph="uni1EA6" class="1"/>
       <ClassDef glyph="uni1EA7" class="1"/>
+      <ClassDef glyph="uni1EA7.cv" class="1"/>
       <ClassDef glyph="uni1EA8" class="1"/>
       <ClassDef glyph="uni1EA9" class="1"/>
+      <ClassDef glyph="uni1EA9.cv" class="1"/>
       <ClassDef glyph="uni1EAA" class="1"/>
       <ClassDef glyph="uni1EAB" class="1"/>
+      <ClassDef glyph="uni1EAB.cv" class="1"/>
       <ClassDef glyph="uni1EAC" class="1"/>
       <ClassDef glyph="uni1EAD" class="1"/>
+      <ClassDef glyph="uni1EAD.cv" class="1"/>
       <ClassDef glyph="uni1EAE" class="1"/>
       <ClassDef glyph="uni1EAF" class="1"/>
+      <ClassDef glyph="uni1EAF.cv" class="1"/>
       <ClassDef glyph="uni1EB0" class="1"/>
       <ClassDef glyph="uni1EB1" class="1"/>
+      <ClassDef glyph="uni1EB1.cv" class="1"/>
       <ClassDef glyph="uni1EB2" class="1"/>
       <ClassDef glyph="uni1EB3" class="1"/>
+      <ClassDef glyph="uni1EB3.cv" class="1"/>
       <ClassDef glyph="uni1EB4" class="1"/>
       <ClassDef glyph="uni1EB5" class="1"/>
+      <ClassDef glyph="uni1EB5.cv" class="1"/>
       <ClassDef glyph="uni1EB6" class="1"/>
       <ClassDef glyph="uni1EB7" class="1"/>
+      <ClassDef glyph="uni1EB7.cv" class="1"/>
       <ClassDef glyph="uni1EB8" class="1"/>
       <ClassDef glyph="uni1EB9" class="1"/>
       <ClassDef glyph="uni1EBA" class="1"/>
@@ -940,8 +967,10 @@
         <Glyph value="uni0326"/>
         <Glyph value="uni0327"/>
         <Glyph value="uni0328"/>
+        <Glyph value="uni0329"/>
         <Glyph value="uni032E"/>
         <Glyph value="uni0331"/>
+        <Glyph value="uni0332"/>
         <Glyph value="uni035F"/>
       </Coverage>
       <Coverage index="5">
@@ -978,7 +1007,6 @@
         <Glyph value="uni0312"/>
         <Glyph value="uni0313"/>
         <Glyph value="uni0315"/>
-        <Glyph value="uni031B"/>
         <Glyph value="uni0344"/>
         <Glyph value="gravecomb.case"/>
         <Glyph value="acutecomb.case"/>
@@ -1007,7 +1035,6 @@
         <Glyph value="uni0311.case"/>
         <Glyph value="uni0313.case"/>
         <Glyph value="uni0315.case"/>
-        <Glyph value="uni031B.case"/>
       </Coverage>
     </MarkGlyphSetsDef>
     <VarStore Format="1">
@@ -1103,7 +1130,7 @@
       </VarRegionList>
       <!-- VarDataCount=1 -->
       <VarData index="0">
-        <!-- ItemCount=205 -->
+        <!-- ItemCount=206 -->
         <NumShorts value="5"/>
         <!-- VarRegionCount=5 -->
         <VarRegionIndex index="0" value="0"/>
@@ -1281,41 +1308,42 @@
         <Item index="167" value="[0, 0, 120, 3, -3]"/>
         <Item index="168" value="[0, 16, 111, 1, -15]"/>
         <Item index="169" value="[0, 24, 83, 0, -24]"/>
-        <Item index="170" value="[4, 0, -83, 0, 0]"/>
-        <Item index="171" value="[4, 0, 45, 0, 0]"/>
-        <Item index="172" value="[18, -6, 83, 0, 0]"/>
-        <Item index="173" value="[18, -13, -83, -18, 13]"/>
-        <Item index="174" value="[18, -6, 121, 2, -4]"/>
-        <Item index="175" value="[10, -6, -46, 0, 0]"/>
-        <Item index="176" value="[3, -2, -45, 0, 0]"/>
-        <Item index="177" value="[3, -1, -45, 0, 0]"/>
-        <Item index="178" value="[5, -4, -45, -5, 4]"/>
-        <Item index="179" value="[0, 0, -19, 2, 0]"/>
-        <Item index="180" value="[12, 0, 0, 0, 0]"/>
-        <Item index="181" value="[0, 0, 7, 0, 0]"/>
-        <Item index="182" value="[0, 0, -19, 0, 0]"/>
-        <Item index="183" value="[0, 0, 19, 0, 0]"/>
-        <Item index="184" value="[0, 0, 13, 0, 0]"/>
-        <Item index="185" value="[0, -18, 0, 0, 0]"/>
-        <Item index="186" value="[0, 0, 25, 0, 0]"/>
-        <Item index="187" value="[0, 0, -1, 0, 0]"/>
-        <Item index="188" value="[0, 0, -3, 0, 0]"/>
-        <Item index="189" value="[0, -28, 70, 0, 0]"/>
-        <Item index="190" value="[1, 0, -83, 0, 0]"/>
-        <Item index="191" value="[0, 0, -71, -5, 2]"/>
-        <Item index="192" value="[0, 0, -70, -6, 0]"/>
-        <Item index="193" value="[-26, 0, 0, 0, 0]"/>
-        <Item index="194" value="[0, 0, -70, -6, 2]"/>
-        <Item index="195" value="[-29, 10, 0, 0, 0]"/>
-        <Item index="196" value="[0, 0, 110, 5, 0]"/>
-        <Item index="197" value="[0, 0, 111, 5, 0]"/>
-        <Item index="198" value="[-4, 0, 105, 0, 0]"/>
-        <Item index="199" value="[0, 0, 107, 5, -6]"/>
-        <Item index="200" value="[24, -31, 0, 0, 0]"/>
-        <Item index="201" value="[0, 0, 84, 0, 0]"/>
-        <Item index="202" value="[0, 0, 134, 0, 0]"/>
-        <Item index="203" value="[0, 0, 146, 5, -6]"/>
-        <Item index="204" value="[0, 0, 124, 3, -2]"/>
+        <Item index="170" value="[0, 0, 111, 5, 0]"/>
+        <Item index="171" value="[0, 0, 110, 5, 0]"/>
+        <Item index="172" value="[-4, 0, 105, 0, 0]"/>
+        <Item index="173" value="[0, 0, 128, 0, 0]"/>
+        <Item index="174" value="[4, 0, -83, 0, 0]"/>
+        <Item index="175" value="[4, 0, 45, 0, 0]"/>
+        <Item index="176" value="[18, -6, 83, 0, 0]"/>
+        <Item index="177" value="[18, -13, -83, -18, 13]"/>
+        <Item index="178" value="[18, -6, 121, 2, -4]"/>
+        <Item index="179" value="[10, -6, -46, 0, 0]"/>
+        <Item index="180" value="[3, -2, -45, 0, 0]"/>
+        <Item index="181" value="[3, -1, -45, 0, 0]"/>
+        <Item index="182" value="[5, -4, -45, -5, 4]"/>
+        <Item index="183" value="[0, 0, -19, 2, 0]"/>
+        <Item index="184" value="[12, 0, 0, 0, 0]"/>
+        <Item index="185" value="[0, 0, 7, 0, 0]"/>
+        <Item index="186" value="[0, 0, -19, 0, 0]"/>
+        <Item index="187" value="[0, 0, 19, 0, 0]"/>
+        <Item index="188" value="[0, 0, 13, 0, 0]"/>
+        <Item index="189" value="[0, -18, 0, 0, 0]"/>
+        <Item index="190" value="[0, 0, 25, 0, 0]"/>
+        <Item index="191" value="[0, 0, -1, 0, 0]"/>
+        <Item index="192" value="[0, 0, -3, 0, 0]"/>
+        <Item index="193" value="[0, -28, 70, 0, 0]"/>
+        <Item index="194" value="[1, 0, -83, 0, 0]"/>
+        <Item index="195" value="[0, 0, -71, -5, 2]"/>
+        <Item index="196" value="[0, 0, -70, -6, 0]"/>
+        <Item index="197" value="[-26, 0, 0, 0, 0]"/>
+        <Item index="198" value="[0, 0, -70, -6, 2]"/>
+        <Item index="199" value="[-29, 10, 0, 0, 0]"/>
+        <Item index="200" value="[0, 0, 107, 5, -6]"/>
+        <Item index="201" value="[24, -31, 0, 0, 0]"/>
+        <Item index="202" value="[0, 0, 84, 0, 0]"/>
+        <Item index="203" value="[0, 0, 134, 0, 0]"/>
+        <Item index="204" value="[0, 0, 146, 5, -6]"/>
+        <Item index="205" value="[0, 0, 124, 3, -2]"/>
       </VarData>
     </VarStore>
   </GDEF>

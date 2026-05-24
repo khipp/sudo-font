@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="4.58">
+<ttFont ttLibVersion="4.62">
 
   <cmap>
     <tableVersion version="0"/>
@@ -477,6 +477,7 @@
       <map code="0x326" name="uni0326"/><!-- COMBINING COMMA BELOW -->
       <map code="0x327" name="uni0327"/><!-- COMBINING CEDILLA -->
       <map code="0x328" name="uni0328"/><!-- COMBINING OGONEK -->
+      <map code="0x329" name="uni0329"/><!-- COMBINING VERTICAL LINE BELOW -->
       <map code="0x32e" name="uni032E"/><!-- COMBINING BREVE BELOW -->
       <map code="0x331" name="uni0331"/><!-- COMBINING MACRON BELOW -->
       <map code="0x332" name="uni0332"/><!-- COMBINING LOW LINE -->
@@ -948,7 +949,7 @@
       <map code="0x20bd" name="uni20BD"/><!-- RUBLE SIGN -->
       <map code="0x20be" name="uni20BE"/><!-- LARI SIGN -->
       <map code="0x20bf" name="uni20BF"/><!-- BITCOIN SIGN -->
-      <map code="0x20c1" name="uni20C1"/><!-- ???? -->
+      <map code="0x20c1" name="uni20C1"/><!-- SAUDI RIYAL SIGN -->
       <map code="0x2105" name="uni2105"/><!-- CARE OF -->
       <map code="0x2113" name="uni2113"/><!-- SCRIPT SMALL L -->
       <map code="0x2116" name="uni2116"/><!-- NUMERO SIGN -->
@@ -1897,6 +1898,7 @@
       <map code="0x326" name="uni0326"/><!-- COMBINING COMMA BELOW -->
       <map code="0x327" name="uni0327"/><!-- COMBINING CEDILLA -->
       <map code="0x328" name="uni0328"/><!-- COMBINING OGONEK -->
+      <map code="0x329" name="uni0329"/><!-- COMBINING VERTICAL LINE BELOW -->
       <map code="0x32e" name="uni032E"/><!-- COMBINING BREVE BELOW -->
       <map code="0x331" name="uni0331"/><!-- COMBINING MACRON BELOW -->
       <map code="0x332" name="uni0332"/><!-- COMBINING LOW LINE -->
@@ -2368,7 +2370,7 @@
       <map code="0x20bd" name="uni20BD"/><!-- RUBLE SIGN -->
       <map code="0x20be" name="uni20BE"/><!-- LARI SIGN -->
       <map code="0x20bf" name="uni20BF"/><!-- BITCOIN SIGN -->
-      <map code="0x20c1" name="uni20C1"/><!-- ???? -->
+      <map code="0x20c1" name="uni20C1"/><!-- SAUDI RIYAL SIGN -->
       <map code="0x2105" name="uni2105"/><!-- CARE OF -->
       <map code="0x2113" name="uni2113"/><!-- SCRIPT SMALL L -->
       <map code="0x2116" name="uni2116"/><!-- NUMERO SIGN -->
@@ -3369,6 +3371,7 @@
       <map code="0x326" name="uni0326"/><!-- COMBINING COMMA BELOW -->
       <map code="0x327" name="uni0327"/><!-- COMBINING CEDILLA -->
       <map code="0x328" name="uni0328"/><!-- COMBINING OGONEK -->
+      <map code="0x329" name="uni0329"/><!-- COMBINING VERTICAL LINE BELOW -->
       <map code="0x32e" name="uni032E"/><!-- COMBINING BREVE BELOW -->
       <map code="0x331" name="uni0331"/><!-- COMBINING MACRON BELOW -->
       <map code="0x332" name="uni0332"/><!-- COMBINING LOW LINE -->
@@ -3840,7 +3843,7 @@
       <map code="0x20bd" name="uni20BD"/><!-- RUBLE SIGN -->
       <map code="0x20be" name="uni20BE"/><!-- LARI SIGN -->
       <map code="0x20bf" name="uni20BF"/><!-- BITCOIN SIGN -->
-      <map code="0x20c1" name="uni20C1"/><!-- ???? -->
+      <map code="0x20c1" name="uni20C1"/><!-- SAUDI RIYAL SIGN -->
       <map code="0x2105" name="uni2105"/><!-- CARE OF -->
       <map code="0x2113" name="uni2113"/><!-- SCRIPT SMALL L -->
       <map code="0x2116" name="uni2116"/><!-- NUMERO SIGN -->
@@ -4789,6 +4792,7 @@
       <map code="0x326" name="uni0326"/><!-- COMBINING COMMA BELOW -->
       <map code="0x327" name="uni0327"/><!-- COMBINING CEDILLA -->
       <map code="0x328" name="uni0328"/><!-- COMBINING OGONEK -->
+      <map code="0x329" name="uni0329"/><!-- COMBINING VERTICAL LINE BELOW -->
       <map code="0x32e" name="uni032E"/><!-- COMBINING BREVE BELOW -->
       <map code="0x331" name="uni0331"/><!-- COMBINING MACRON BELOW -->
       <map code="0x332" name="uni0332"/><!-- COMBINING LOW LINE -->
@@ -5260,7 +5264,7 @@
       <map code="0x20bd" name="uni20BD"/><!-- RUBLE SIGN -->
       <map code="0x20be" name="uni20BE"/><!-- LARI SIGN -->
       <map code="0x20bf" name="uni20BF"/><!-- BITCOIN SIGN -->
-      <map code="0x20c1" name="uni20C1"/><!-- ???? -->
+      <map code="0x20c1" name="uni20C1"/><!-- SAUDI RIYAL SIGN -->
       <map code="0x2105" name="uni2105"/><!-- CARE OF -->
       <map code="0x2113" name="uni2113"/><!-- SCRIPT SMALL L -->
       <map code="0x2116" name="uni2116"/><!-- NUMERO SIGN -->
