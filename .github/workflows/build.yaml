@@ -130,6 +130,18 @@ jobs:
         run: echo "RELEASE_ZIP_NAME=$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')-${{github.ref_name}}" >> $GITHUB_ENV
       - name: Create release bundle
         run: mv ${{ env.ZIP_NAME }} ${{ env.RELEASE_ZIP_NAME }}; zip -r ${{ env.RELEASE_ZIP_NAME }}.zip ${{ env.RELEASE_ZIP_NAME }}
+      # And now for Debian
+      - name: Generate Changelog
+        run: sed -n '/${{github.ref_name}}/,/^$/p' sudo/FONTLOG.txt | sed '1d; $d' > Release_Notes.txt
+      - name: Install WOFF Support
+        run: sudo apt install -y woff2 woff-tools
+      - name: Install Debian Packaging Support
+        run: sudo apt update && sudo apt -y install devscripts debhelper-compat build-essential zip
+      - name: Build Debian Package
+        run: scripts/prepare-deb.sh
+      - name: Build
+        run: make dist
+      # Continue with Google Fonts workflow
       - name: Check for release
         id: create_release
         run: |
@@ -139,6 +151,8 @@ jobs:
       - name: Populate release
         run: |
           gh release upload ${{ github.ref_name }} ${{ env.RELEASE_ZIP_NAME }}.zip --clobber
+          gh release upload ${{ github.ref_name }} dist/sudo.zip --clobber
+          gh release upload ${{ github.ref_name }} dist/deb/fonts-sudo/fonts-sudo_*_all.deb --clobber
       - name: Set release live
         run: |
           gh release edit ${{ github.ref_name }} --draft=false
