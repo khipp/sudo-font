@@ -1294,6 +1294,8 @@
     <mtx name="uni2015" width="896" lsb="-10"/>
     <mtx name="uni2016" width="448" lsb="124"/>
     <mtx name="uni201F" width="448" lsb="62"/>
+    <mtx name="uni2028" width="448" lsb="0"/>
+    <mtx name="uni2029" width="448" lsb="0"/>
     <mtx name="uni203E" width="448" lsb="-10"/>
     <mtx name="uni2042" width="896" lsb="47"/>
     <mtx name="uni2070" width="320" lsb="46"/>

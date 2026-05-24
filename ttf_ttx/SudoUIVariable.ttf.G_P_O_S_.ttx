@@ -1430,6 +1430,8 @@
             <Glyph value="uni200B"/>
             <Glyph value="uni200C"/>
             <Glyph value="uni200D"/>
+            <Glyph value="uni2028"/>
+            <Glyph value="uni2029"/>
             <Glyph value="uniFEFF"/>
             <Glyph value="period"/>
             <Glyph value="comma"/>

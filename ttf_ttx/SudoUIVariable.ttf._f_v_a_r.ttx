@@ -16,7 +16,7 @@
     <!-- Descender -->
     <Axis>
       <AxisTag>YTDE</AxisTag>
-      <Flags>0x0</Flags>
+      <Flags>0x1</Flags>
       <MinValue>-231.0</MinValue>
       <DefaultValue>-231.0</DefaultValue>
       <MaxValue>-77.0</MaxValue>

@@ -39545,6 +39545,10 @@
       <component glyphName="quotereversed" x="-96" y="0" flags="0x0"/>
     </TTGlyph>
 
+    <TTGlyph name="uni2028"/><!-- contains no outline data -->
+
+    <TTGlyph name="uni2029"/><!-- contains no outline data -->
+
     <TTGlyph name="uni203E" xMin="-10" yMin="704" xMax="458" yMax="768">
       <component glyphName="uni0305" x="0" y="-64" flags="0x404"/>
     </TTGlyph>
